@@ -1,10 +1,9 @@
 # Cloud 66 ChatOps
 Igor is an open source Slack-bot, built by [Cloud 66](http://www.cloud66.com/?utm_source=gh&utm_medium=ghp&utm_campaign=robochat). It is your very own personal assistant that operates on your stacks directly from the Slack chat window. Now, you can display the state of your stacks, perform deployments, and cancel them with simple commands like `list` , `deploy`, and `cancel`.
 
-- Download Igor: http://app.cloud66.com/easydeploys
-
-
 ![Logo ChatOps a Slack bot to manage your stacks](http://cdn.cloud66.com.s3.amazonaws.com/images/igor-cloud66-chatops-github.png) 
+
+- Download Igor: http://app.cloud66.com/easydeploys
 
 
 ### Key features:
